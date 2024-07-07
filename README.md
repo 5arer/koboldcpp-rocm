@@ -142,7 +142,7 @@ There are some community made AUR packages (Maintained by @AlpinDale) available:
 The recommended installation method is through an AUR helper such as [paru](https://aur.archlinux.org/packages/paru) or [yay](https://aur.archlinux.org/packages/yay):
 
 ```sh
-paru -S koboldcpp-cpuhipblas
+paru -S koboldcpp-hipblas
 ```
 
 Alternatively, you can manually install, though it's not recommended (since the build depends on [customtkinter](https://aur.archlinux.org/packages/customtkinter)):
